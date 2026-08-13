@@ -1,6 +1,6 @@
 # 💊 Pharma Sales & Operations Data Analytics
 
-<img src="Assets/Fondo Aisle De Farmacia Moderna Con Productos Organizados De Salud Y Belleza, Pasillo De Farmacia, Productos De Salud, Productos De Belleza Imagen de Fondo Para Descarga Gratuita - Pngtreee.jfif" width="100%" alt="Pharmacy Header">
+<img src="pharmacy-sales-data-analysis/Assets/Fondo Aisle De Farmacia Moderna Con Productos Organizados De Salud Y Belleza, Pasillo De Farmacia, Productos De Salud, Productos De Belleza Imagen de Fondo Para Descarga Gratuita - Pngtreee.jfif" width="100%" alt="Pharmacy Header">
 
 An end-to-end data analytics project focused on optimizing pharmacy operations, inventory management, and staffing using Python and Plotly.
 
@@ -25,9 +25,9 @@ Para ver estos gráficos con total interactividad (pasar el mouse, ver números 
 ### 🕐 1. Total Sales by Hour of the Day
 *Muestra claramente las horas pico de la tarde y el fuerte descenso en el turno nocturno.*
 
-<img src="Assets/sales_by_hour.png" width="80%" alt="Sales by Hour Chart">
+<img src="pharmacy-sales-data-analysis/Assets/sales_by_hour.png" width="80%" alt="Sales by Hour Chart">
 
 ### 📅 2. Best-Selling Days of the Week
 *Permite identificar qué días de la semana requieren un mayor reabastecimiento de inventario.*
 
-<img src="Assets/sales_by_day.png" width="80%" alt="Sales by Day Chart">
+<img src="pharmacy-sales-data-analysis/Assets/sales_by_day.png" width="80%" alt="Sales by Day Chart">
