@@ -1,10 +1,11 @@
 # 💊 Pharma Sales & Operations Data Analytics
 
-<img src="pharmacy-sales-data-analysis/Assets/Fondo Aisle De Farmacia Moderna Con Productos Organizados De Salud Y Belleza, Pasillo De Farmacia, Productos De Salud, Productos De Belleza Imagen de Fondo Para Descarga Gratuita - Pngtreee.jfif" width="100%" alt="Pharmacy Header">
+<img src="Assets/Fondo Aisle De Farmacia Moderna Con Productos Organizados De Salud Y Belleza, Pasillo De Farmacia, Productos De Salud, Productos De Belleza Imagen de Fondo Para Descarga Gratuita - Pngtreee.jfif" width="100%" alt="Pharmacy Header">
 
 An end-to-end data analytics project focused on optimizing pharmacy operations, inventory management, and staffing using Python and Plotly.
 
 > 🚀 **[Click here to view the Interactive & Dynamic Charts (NBViewer)](HAY_QUE_PONER_EL_LINK_DE_NBVIEWER_AQUI)**
+
 ---
 
 ## 📊 Key Insights Found
@@ -20,14 +21,14 @@ An end-to-end data analytics project focused on optimizing pharmacy operations, 
 
 ## 📈 Interactive Project Visualizations
 
-Para ver estos gráficos con total interactividad (pasar el mouse, ver números exactos y hacer zoom), asegúrate de abrir el enlace de **NBViewer** al principio de este documento.
+To view these charts with full interactivity (hover effect, exact numbers, and zooming), make sure to click the **NBViewer** link at the top of this document.
 
 ### 🕐 1. Total Sales by Hour of the Day
-*Muestra claramente las horas pico de la tarde y el fuerte descenso en el turno nocturno.*
+*This chart clearly shows the evening peak hours and the sharp decline in sales during the night shift.*
 
-<img src="pharmacy-sales-data-analysis/Assets/sales_by_hour.png" width="80%" alt="Sales by Hour Chart">
+<img src="Assets/sales_by_hour.png" width="80%" alt="Sales by Hour Chart">
 
 ### 📅 2. Best-Selling Days of the Week
-*Permite identificar qué días de la semana requieren un mayor reabastecimiento de inventario.*
+*This chart helps pharmacy management identify which days of the week require additional inventory restocking.*
 
-<img src="pharmacy-sales-data-analysis/Assets/sales_by_day.png" width="80%" alt="Sales by Day Chart">
+<img src="Assets/sales_by_day.png" width="80%" alt="Sales by Day Chart">
