@@ -4,7 +4,7 @@
 
 An end-to-end data analytics project focused on optimizing pharmacy operations, inventory management, and staffing using Python and Plotly.
 
-> 🚀 **[Click here to view the Interactive & Dynamic Charts (NBViewer)]([https://nbviewer.org](https://nbviewer.org/github/mohammedmegahed2010-del/pharmacy-sales-data-analysis/blob/main/01-pharmacy-sales-insights/main.ipynb))**
+> 🚀 **[Click here to view the Interactive & Dynamic Charts (NBViewer)](https://nbviewer.org/github/mohammedmegahed2010-del/pharmacy-sales-data-analysis/blob/main/01-pharmacy-sales-insights/main.ipynb)**
 
 ---
 
