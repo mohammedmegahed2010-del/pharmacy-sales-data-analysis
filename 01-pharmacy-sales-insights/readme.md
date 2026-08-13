@@ -1,10 +1,10 @@
 # 💊 Pharma Sales & Operations Data Analytics
 
-<img src="Assets/Fondo Aisle De Farmacia Moderna Con Productos Organizados De Salud Y Belleza, Pasillo De Farmacia, Productos De Salud, Productos De Belleza Imagen de Fondo Para Descarga Gratuita - Pngtreee.jfif" width="100%" alt="Pharmacy Header">
+<img src="../Assets/Fondo Aisle De Farmacia Moderna Con Productos Organizados De Salud Y Belleza, Pasillo De Farmacia, Productos De Salud, Productos De Belleza Imagen de Fondo Para Descarga Gratuita - Pngtreee.jfif" width="100%" alt="Pharmacy Header">
 
 An end-to-end data analytics project focused on optimizing pharmacy operations, inventory management, and staffing using Python and Plotly.
 
-> 🚀 **[Click here to view the Interactive & Dynamic Charts (NBViewer)](HAY_QUE_PONER_EL_LINK_DE_NBVIEWER_AQUI)**
+> 🚀 **[Click here to view the Interactive & Dynamic Charts (NBViewer)](https://nbviewer.org)**
 
 ---
 
@@ -26,9 +26,9 @@ To view these charts with full interactivity (hover effect, exact numbers, and z
 ### 🕐 1. Total Sales by Hour of the Day
 *This chart clearly shows the evening peak hours and the sharp decline in sales during the night shift.*
 
-<img src="Assets/sales_by_hour.png" width="80%" alt="Sales by Hour Chart">
+<img src="../Assets/sales_by_hour.png" width="80%" alt="Sales by Hour Chart">
 
 ### 📅 2. Best-Selling Days of the Week
 *This chart helps pharmacy management identify which days of the week require additional inventory restocking.*
 
-<img src="Assets/sales_by_day.png" width="80%" alt="Sales by Day Chart">
+<img src="../Assets/sales_by_day.png" width="80%" alt="Sales by Day Chart">
